@@ -3,6 +3,20 @@
 **MySawah** adalah aplikasi Android modern yang dirancang untuk membantu petani meningkatkan produktivitas melalui integrasi teknologi Kecerdasan Buatan (AI) dan E-commerce pertanian. Aplikasi ini dibangun menggunakan **Jetpack Compose** dengan arsitektur yang bersih dan reaktif.
 
 ---
+<h3 align="center">📱 App Screenshots</h3>
+
+<p align="center">
+  <img src="screenshots/1_login.png" width="180" title="Login Screen">
+  <img src="screenshots/2_home.png" width="180" title="Home Screen">
+  <img src="screenshots/3_ai_prediction.png" width="180" title="AI Chatbot">
+  <img src="screenshots/4_cart.png" width="180" title="Shopping Cart">
+  <img src="screenshots/5_profile.png" width="180" title="User Profile">
+</p>
+
+<p align="center">
+  <i>Tampilan antarmuka MySawah yang responsif menggunakan Jetpack Compose</i>
+</p>
+---
 
 ## 🚀 Fitur Unggulan
 
