@@ -6,6 +6,7 @@
 <h3 align="center">📱 App Screenshots</h3>
 
 <p align="center">
+  <img src="screenshots/0_welcome.png" width="180" title="Login Screen">
   <img src="screenshots/1_login.png" width="180" title="Login Screen">
   <img src="screenshots/2_home.png" width="180" title="Home Screen">
   <img src="screenshots/3_ai_prediction.png" width="180" title="AI Chatbot">
@@ -16,6 +17,7 @@
 <p align="center">
   <i>Tampilan antarmuka MySawah yang responsif menggunakan Jetpack Compose</i>
 </p>
+
 ---
 
 ## 🚀 Fitur Unggulan
