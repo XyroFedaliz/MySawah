@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.MySawah" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.MySawah.Splash" parent="Theme.SplashScreen">
+        <!-- Warna background saat splash -->
+        <item name="windowSplashScreenBackground">#000000</item>
+        <!-- Gambar logo yang tampil di splash -->
+        <item name="windowSplashScreenAnimatedIcon">@drawable/splash_logo</item>
+        <!-- Durasi animasi bawaan (opsional) -->
+        <item name="windowSplashScreenAnimationDuration">300</item>
+        <item name="postSplashScreenTheme">@style/Theme.MySawah</item>
+    </style>
+</resources>
