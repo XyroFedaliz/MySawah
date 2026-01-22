@@ -1,4 +1,4 @@
-# MySawah - Smart Farming Assistant & Marketplace p 🌾
+# MySawah - Smart Farming Assistant & Marketplace 🌾
 
 **MySawah** adalah aplikasi Android modern yang dirancang untuk membantu petani meningkatkan produktivitas melalui integrasi teknologi Kecerdasan Buatan (AI) dan E-commerce pertanian. Aplikasi ini dibangun menggunakan **Jetpack Compose** dengan arsitektur yang bersih dan reaktif.
 
