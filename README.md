@@ -86,7 +86,7 @@ Sistem cerdas yang merekomendasikan tanaman terbaik untuk lahan Anda.
 ```bash
 com.mysawah.predict
 ├── data
-│   ├── local      # Token & Session Storage
+│   ├── local      # Token & Sessions Storage
 │   ├── remote     # Retrofit Config & ApiService
 │   └── repository # Auth, Cart, & Transaction Logic
 ├── domain
